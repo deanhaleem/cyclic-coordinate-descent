@@ -1,3 +1,5 @@
-# Unity
+# Inverse Kinematics
 
-Small Unity projects
+Really simple inverse kinematics system using cyclic coordinate descent
+
+https://youtu.be/O8RHyhOEMpc
